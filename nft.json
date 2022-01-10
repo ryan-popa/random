@@ -1,0 +1,27 @@
+{
+    "name": "Anca",
+    "description": "Mario is a plumber",
+    "image": "https://play.nintendo.com/images/Masthead_Mario_HeroPose-updated2021.b19a16e5.ed4a1562.png",
+    "attributes": [
+        {
+            "trait_type": "strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "speed",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "jumping",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "intelligence",
+            "value": 8,
+            "max_value": 10
+        }
+    ]
+}
